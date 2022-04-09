@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "navbar-native": "^1.6.1",
     "navigationbar-react-native": "0.0.5",
     "react": "16.11.0",
